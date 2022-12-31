@@ -1,8 +1,8 @@
 
-![MasterHead](https://cdn.dribbble.com/users/1732574/screenshots/5819252/media/43e81994ab016663f62e75cada68b72c.gif)
+![MasterHead](https://www.aurecongroup.com/-/media/images/aurecon/content/expertise/digital-engineering-advisory/machine-learning/aurecon-machine-learning-large-banner.jpg?w=1170&h=417&as=1&crop=1)
 <h1 align="center">Hi 👋, I'm Juan Andres Bueno</h1>
 <h3 align="center">Mechatronics Engineer in training with a passion for ML and data science.</h3>
-
+<img align="right" alt="Coding" width="500" src="https://giphy.com/gifs/blue-white-brain-eljCVpMrhepUSgZaVP">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juan-good&label=Profile%20views&color=0e75b6&style=flat" alt="juan-good" /> </p>
 
 - 🔭 I’m currently working on **3D printing and Metaverse**
